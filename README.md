@@ -1,4 +1,13 @@
-### Hi there 👋
+## Welcome ladys and gentleman! i'm Vitor lWolfariell 👋
+### I'm Initiating in dev's world, hopeful in the success of this new journey!!:angel:
+
+- Atualmente trabalhando na área administraviva :office: mas estou buscando :telescope: uma nova oportunidade na área de tecnologia
+- Dando meus primeiros passo no Bootcamp DIO NTT DATA Diversidade em Tech 🌱
+
+## Você pode me encontrar aqui: :wink:
+:link:[Linkedin](https://www.linkedin.com/in/vitor-guilherme-19326414b/)
+:link:[DIO](https://web.dio.me/users/vitor_wolf20?tab=achievements)
+
 
 <!--
 **lWolfariell/lWolfariell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
