@@ -5,9 +5,14 @@
 - Dando meus primeiros passo no Bootcamp DIO NTT DATA Diversidade em Tech 🌱
 
 ## Você pode me encontrar aqui: :wink:
-:link:[Linkedin](https://www.linkedin.com/in/vitor-guilherme-19326414b/)
+<div "display>
+:link:[Linkedin]()
 :link:[DIO](https://web.dio.me/users/vitor_wolf20?tab=achievements)
+</div>
 
+<div>
+<a href="https://www.linkedin.com/in/vitor-gui/" target="_blank"><img src:"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 <!--
 **lWolfariell/lWolfariell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
