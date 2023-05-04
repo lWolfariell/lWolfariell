@@ -5,11 +5,11 @@
 - Dando meus primeiros passos como um desenvolvedor Front End 🌱
 
 ## About me
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lWolfariell&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lWolfariell&layout=compact&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lWolfariell&layout=compact&show_icons=true&theme=synthwave" />
 </a> -->
 
 <div style="display: inline_block"><br>
